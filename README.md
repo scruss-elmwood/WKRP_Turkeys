@@ -10,4 +10,4 @@ a re-creation of the *WKRP in Cincinnati* 🦃 drop in LED pixels
 * [5V 2A \(2000mA\) switching power supply](https://chicagodist.com/products/5v-2a-2000ma-switching-power-supply)
 * [FTDI Serial TTL\-232 USB Cable](https://chicagodist.com/products/ftdi-serial-ttl-232-usb-cable)
 
-For more details, please see [“perhaps the greatest 🦃 event in Thanksgiving Day history …”](https://chicagodist.com/blogs/builds/perhaps-the-greatest-event-in-thanksgiving-day-history)
+For more details, please see [“perhaps the greatest 🦃 event in Thanksgiving Day history …”](https://chicagodist.com/blogs/news/perhaps-the-greatest-event-in-thanksgiving-day-history)
